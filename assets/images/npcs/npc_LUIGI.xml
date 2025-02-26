@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="npc_LUIGI.png">
+<SubTexture name="idle0000" x="0" y="0" width="725" height="927" frameX="-126" frameY="-56" frameWidth="852" frameHeight="1091" />
+<SubTexture name="talk0000" x="725" y="0" width="760" height="927" frameX="-91" frameY="-56" frameWidth="852" frameHeight="1091" />
+</TextureAtlas>

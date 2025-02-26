@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Flem_Sprites.png">
+<SubTexture name="move_30000" x="1086" y="0" width="580" height="395" frameX="-136" frameY="-290" frameWidth="768" frameHeight="768" />
+<SubTexture name="move_20000" x="1086" y="395" width="558" height="395" frameX="-136" frameY="-290" frameWidth="768" frameHeight="768" />
+<SubTexture name="move_10000" x="0" y="874" width="558" height="395" frameX="-136" frameY="-290" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle_30000" x="0" y="0" width="543" height="437" frameX="-120" frameY="-241" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle_20000" x="543" y="0" width="543" height="437" frameX="-120" frameY="-241" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle_10000" x="0" y="437" width="543" height="437" frameX="-120" frameY="-241" frameWidth="768" frameHeight="768" />
+</TextureAtlas>

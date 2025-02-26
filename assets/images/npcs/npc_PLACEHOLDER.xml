@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="npc_PLACEHOLDER.png">
+<SubTexture name="idle0000" x="0" y="0" width="604" height="609" frameX="-43" frameY="-45" frameWidth="700" frameHeight="700" />
+<SubTexture name="talk0000" x="604" y="0" width="604" height="609" frameX="-43" frameY="-45" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

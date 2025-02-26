@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="npc_SCREAM.png">
+<SubTexture name="idle0000" x="412" y="0" width="428" height="577" frameX="-160" frameY="-109" frameWidth="700" frameHeight="700" />
+<SubTexture name="talk0000" x="0" y="0" width="412" height="680" frameX="-120" frameY="-6" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

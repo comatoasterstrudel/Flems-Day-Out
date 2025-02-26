@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="npc_CAT.png">
+<SubTexture name="idle0000" x="472" y="0" width="472" height="368" frameX="-176" frameY="-182" frameWidth="700" frameHeight="700" />
+<SubTexture name="talk0000" x="0" y="0" width="472" height="477" frameX="-176" frameY="-73" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

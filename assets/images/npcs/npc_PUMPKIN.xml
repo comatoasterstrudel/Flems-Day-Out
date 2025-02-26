@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="npc_PUMPKIN.png">
+<SubTexture name="idle0000" x="435" y="0" width="435" height="498" frameX="-141" frameY="-136" frameWidth="700" frameHeight="700" />
+<SubTexture name="talk0000" x="0" y="0" width="435" height="498" frameX="-141" frameY="-136" frameWidth="700" frameHeight="700" />
+</TextureAtlas>
